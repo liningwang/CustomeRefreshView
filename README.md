@@ -1,6 +1,7 @@
 # CustomeRefreshView
 扩展Android-PullToRefresh-master，增加可以自己定制刷新头。
 用法：
+
 CustomeLoadingLayout layout = new CustomeLoadingLayout(this,Mode.PULL_FROM_START, PullToRefreshBase.Orientation.VERTICAL);
 mPullRefreshListView.setCustomAnimateLayout(this,layout);
 
