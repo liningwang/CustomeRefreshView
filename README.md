@@ -108,3 +108,4 @@ public class CustomeLoadingLayout extends LoadingLayout {
 
 }
 ```
+![](https://github.com/liningwang/CustomeRefreshView/blob/master/%7D2XZ7W(%5B%5DJ1IJ09%7D7OM)JM5.png)
