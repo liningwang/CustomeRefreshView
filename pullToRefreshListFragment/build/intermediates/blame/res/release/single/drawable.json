@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\mywork\\codeForStudio\\mydemo\\sample\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bg_bottom.xml",
+        "source": "D:\\mywork\\codeForStudio\\mydemo\\sample\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "D:\\mywork\\codeForStudio\\mydemo\\sample\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bg_top.xml",
+        "source": "D:\\mywork\\codeForStudio\\mydemo\\sample\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\drawable\\indicator_bg_top.xml"
+    }
+]

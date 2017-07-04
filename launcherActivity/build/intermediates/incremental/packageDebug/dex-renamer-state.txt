@@ -1,0 +1,7 @@
+#Tue Jul 04 11:02:41 CST 2017
+base.0=D\:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_216979d9522df99e7e249d2eb2acfbb4c505b1ae
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5cb35b40afce160958784fb33e2b334abcd2bb4b\\classes.dex
+base.1=D\:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5cb35b40afce160958784fb33e2b334abcd2bb4b
+file.0=D\:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_216979d9522df99e7e249d2eb2acfbb4c505b1ae\\classes.dex

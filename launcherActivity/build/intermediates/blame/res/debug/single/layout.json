@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ptr_grid.xml",
+        "source": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\src\\main\\res\\layout\\activity_ptr_grid.xml"
+    },
+    {
+        "merged": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\build\\intermediates\\res\\merged\\debug\\layout\\layout_listview_in_viewpager.xml",
+        "source": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\src\\main\\res\\layout\\layout_listview_in_viewpager.xml"
+    },
+    {
+        "merged": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ptr_list_fragment.xml",
+        "source": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\src\\main\\res\\layout\\activity_ptr_list_fragment.xml"
+    },
+    {
+        "merged": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ptr_webview2.xml",
+        "source": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\src\\main\\res\\layout\\activity_ptr_webview2.xml"
+    },
+    {
+        "merged": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ptr_list.xml",
+        "source": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\src\\main\\res\\layout\\activity_ptr_list.xml"
+    },
+    {
+        "merged": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ptr_scrollview.xml",
+        "source": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\src\\main\\res\\layout\\activity_ptr_scrollview.xml"
+    },
+    {
+        "merged": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ptr_list_in_vp.xml",
+        "source": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\src\\main\\res\\layout\\activity_ptr_list_in_vp.xml"
+    },
+    {
+        "merged": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical1.xml",
+        "source": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\src\\main\\res\\layout\\pull_to_refresh_header_vertical1.xml"
+    },
+    {
+        "merged": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ptr_horizontalscrollview.xml",
+        "source": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\src\\main\\res\\layout\\activity_ptr_horizontalscrollview.xml"
+    },
+    {
+        "merged": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ptr_webview.xml",
+        "source": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\src\\main\\res\\layout\\activity_ptr_webview.xml"
+    },
+    {
+        "merged": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ptr_expandable_list.xml",
+        "source": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\src\\main\\res\\layout\\activity_ptr_expandable_list.xml"
+    },
+    {
+        "merged": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ptr_viewpager.xml",
+        "source": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\src\\main\\res\\layout\\activity_ptr_viewpager.xml"
+    },
+    {
+        "merged": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\build\\intermediates\\res\\merged\\debug\\layout\\need_this_for_maven.xml",
+        "source": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\build\\intermediates\\exploded-aar\\sample\\pullToRefreshListFragment\\unspecified\\res\\layout\\need_this_for_maven.xml"
+    }
+]

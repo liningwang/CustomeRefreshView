@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\node_modules_jdreactcorelib_libraries_jdscrollview_images_app_refresh_people_2.png",
+        "source": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\src\\main\\res\\drawable\\node_modules_jdreactcorelib_libraries_jdscrollview_images_app_refresh_people_2.png"
+    },
+    {
+        "merged": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\pro.xml",
+        "source": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\src\\main\\res\\drawable\\pro.xml"
+    },
+    {
+        "merged": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\node_modules_jdreactcorelib_libraries_jdscrollview_images_app_refresh_people_0.png",
+        "source": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\src\\main\\res\\drawable\\node_modules_jdreactcorelib_libraries_jdscrollview_images_app_refresh_people_0.png"
+    },
+    {
+        "merged": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\node_modules_jdreactcorelib_libraries_jdscrollview_images_app_refresh_people_3.png",
+        "source": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\src\\main\\res\\drawable\\node_modules_jdreactcorelib_libraries_jdscrollview_images_app_refresh_people_3.png"
+    },
+    {
+        "merged": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\node_modules_jdreactcorelib_libraries_jdscrollview_images_app_refresh_people_1.png",
+        "source": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\src\\main\\res\\drawable\\node_modules_jdreactcorelib_libraries_jdscrollview_images_app_refresh_people_1.png"
+    },
+    {
+        "merged": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\drawable\\indicator_bg_bottom.xml"
+    }
+]

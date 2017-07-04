@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\indicator_arrow.png",
+        "source": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\drawable-xhdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_flip.png",
+        "source": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\drawable-xhdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_rotate.png",
+        "source": "D:\\mywork\\codeForStudio\\mydemo\\sample\\launcherActivity\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\drawable-xhdpi-v4\\default_ptr_rotate.png"
+    }
+]

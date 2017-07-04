@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\mywork\\codeForStudio\\mydemo\\sample\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\default_ptr_flip.png",
+        "source": "D:\\mywork\\codeForStudio\\mydemo\\sample\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\drawable-mdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "D:\\mywork\\codeForStudio\\mydemo\\sample\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\indicator_arrow.png",
+        "source": "D:\\mywork\\codeForStudio\\mydemo\\sample\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\drawable-mdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\mywork\\codeForStudio\\mydemo\\sample\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\default_ptr_rotate.png",
+        "source": "D:\\mywork\\codeForStudio\\mydemo\\sample\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\drawable-mdpi-v4\\default_ptr_rotate.png"
+    }
+]

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\mywork\codeForStudio\mydemo\sample\launcherActivity\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\mywork\codeForStudio\mydemo\sample\launcherActivity\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_b4a54f58bd77a48dfffcb7bb404ac4b99b26001e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\mywork\codeForStudio\mydemo\sample\launcherActivity\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\mywork\codeForStudio\mydemo\sample\launcherActivity\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_9897f7ed06c103d22568ae8031c2b9a50fbf963c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\mywork\codeForStudio\mydemo\sample\launcherActivity\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cae80bae47d3014e00e316ba2fbf40e80f2c9406">
+        <dex dex="D:\mywork\codeForStudio\mydemo\sample\launcherActivity\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_216979d9522df99e7e249d2eb2acfbb4c505b1ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\mywork\codeForStudio\mydemo\sample\launcherActivity\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dc53c4e67f52f2f0289beedb05ec4d5f300a22a8">
+        <dex dex="D:\mywork\codeForStudio\mydemo\sample\launcherActivity\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5cb35b40afce160958784fb33e2b334abcd2bb4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\mywork\studio-sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\mywork\codeForStudio\mydemo\sample\launcherActivity\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_c79d1ee0a18f56c27301fe9313b9f4481f19f228\classes.dex" />
+    </item>
+
+</items>

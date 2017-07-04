@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\mywork\\codeForStudio\\mydemo\\sample\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\release\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "D:\\mywork\\codeForStudio\\mydemo\\sample\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "D:\\mywork\\codeForStudio\\mydemo\\sample\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\release\\layout\\need_this_for_maven.xml",
+        "source": "D:\\mywork\\codeForStudio\\mydemo\\sample\\pullToRefreshListFragment\\src\\main\\res\\layout\\need_this_for_maven.xml"
+    },
+    {
+        "merged": "D:\\mywork\\codeForStudio\\mydemo\\sample\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\release\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "D:\\mywork\\codeForStudio\\mydemo\\sample\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    }
+]

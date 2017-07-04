@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\mywork\\codeForStudio\\mydemo\\sample\\pullToRefreshViewPager\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "D:\\mywork\\codeForStudio\\mydemo\\sample\\pullToRefreshViewPager\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "D:\\mywork\\codeForStudio\\mydemo\\sample\\pullToRefreshViewPager\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\need_this_for_maven.xml",
+        "source": "D:\\mywork\\codeForStudio\\mydemo\\sample\\pullToRefreshViewPager\\build\\intermediates\\bundles\\debug\\res\\layout\\need_this_for_maven.xml"
+    },
+    {
+        "merged": "D:\\mywork\\codeForStudio\\mydemo\\sample\\pullToRefreshViewPager\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "D:\\mywork\\codeForStudio\\mydemo\\sample\\pullToRefreshViewPager\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    }
+]
