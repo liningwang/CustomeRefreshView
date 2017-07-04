@@ -2,8 +2,12 @@
 扩展Android-PullToRefresh-master，增加可以自己定制刷新头。
 用法：
 
+在activity中：
+
 CustomeLoadingLayout layout = new CustomeLoadingLayout(this,Mode.PULL_FROM_START, PullToRefreshBase.Orientation.VERTICAL);
 mPullRefreshListView.setCustomAnimateLayout(this,layout);
+
+然后定义自己的刷新头：
 
 public class CustomeLoadingLayout extends LoadingLayout {
 
