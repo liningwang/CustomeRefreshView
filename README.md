@@ -3,12 +3,13 @@
 用法：
 
 在activity中：
-
+```java
 CustomeLoadingLayout layout = new CustomeLoadingLayout(this,Mode.PULL_FROM_START, PullToRefreshBase.Orientation.VERTICAL);
 mPullRefreshListView.setCustomAnimateLayout(this,layout);
-
+```
 然后定义自己的刷新头：
 
+```java
 public class CustomeLoadingLayout extends LoadingLayout {
 
 	static final int ROTATION_ANIMATION_DURATION = 1200;
@@ -106,3 +107,4 @@ public class CustomeLoadingLayout extends LoadingLayout {
 	}
 
 }
+```
