@@ -1155,6 +1155,10 @@ public abstract class PullToRefreshBase<T extends View> extends LinearLayout imp
         mHeaderLayout = layout;
         updateUIForMode();
     }
+    public void setCustomAnimateFooterLayout(Context context, LoadingLayout layout) {
+        mFooterLayout = layout;
+        updateUIForMode();
+    }
 
     private boolean isReadyForPull() {
         switch (mMode) {
