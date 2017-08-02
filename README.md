@@ -109,3 +109,9 @@ public class CustomeLoadingLayout extends LoadingLayout {
 }
 ```
 ![](https://github.com/liningwang/CustomeRefreshView/blob/master/%7D2XZ7W(%5B%5DJ1IJ09%7D7OM)JM5.png)
+
+###也可以定义Footer
+```
+CustomeLoadingLayout layoutFooter = new CustomeLoadingLayout(this, PullToRefreshBase.Mode.PULL_FROM_END, PullToRefreshBase.Orientation.VERTICAL);
+		mPullRefreshScrollView.setCustomAnimateFooterLayout(this,layoutFooter);
+```
