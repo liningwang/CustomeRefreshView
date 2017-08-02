@@ -114,5 +114,5 @@ public class CustomeLoadingLayout extends LoadingLayout {
 
 ```
 CustomeLoadingLayout layoutFooter = new CustomeLoadingLayout(this, PullToRefreshBase.Mode.PULL_FROM_END, PullToRefreshBase.Orientation.VERTICAL);
-		mPullRefreshScrollView.setCustomAnimateFooterLayout(this,layoutFooter);
+mPullRefreshScrollView.setCustomAnimateFooterLayout(this,layoutFooter);
 ```
