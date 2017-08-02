@@ -76,7 +76,7 @@ public final class PullToRefreshListActivity extends ListActivity {
 		});
 		CustomeLoadingLayout layout = new CustomeLoadingLayout(this,Mode.PULL_FROM_START, PullToRefreshBase.Orientation.VERTICAL);
 		mPullRefreshListView.setCustomAnimateLayout(this,layout);
-		mPullRefreshListView.getLoadingLayoutProxy();
+//		mPullRefreshListView.getLoadingLayoutProxy();
 		// Add an end-of-list listener
 		mPullRefreshListView.setOnLastItemVisibleListener(new OnLastItemVisibleListener() {
 

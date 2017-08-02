@@ -20,10 +20,12 @@ import android.content.Context;
 import android.content.res.TypedArray;
 import android.graphics.Matrix;
 import android.graphics.drawable.Drawable;
+import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.view.animation.Animation;
 import android.view.animation.RotateAnimation;
+import android.widget.ImageView;
 import android.widget.ImageView.ScaleType;
 
 import com.handmark.pulltorefresh.library.PullToRefreshBase.Mode;
@@ -36,11 +38,15 @@ public class FlipLoadingLayout extends LoadingLayout {
 	static final int FLIP_ANIMATION_DURATION = 150;
 
 	private final Animation mRotateAnimation, mResetRotateAnimation;
-
+	private View view;
 	public FlipLoadingLayout(Context context, final Mode mode, final Orientation scrollDirection, TypedArray attrs) {
 		super(context, mode, scrollDirection, attrs);
 
 		final int rotateAngle = mode == Mode.PULL_FROM_START ? -180 : 180;
+		view = LayoutInflater.from(context).inflate(R.layout.pull_to_refresh_header_vertical,null);
+		setInit(view,context,mode,scrollDirection);
+//		mRotateDrawableWhilePulling = attrs.getBoolean(R.styleable.PullToRefresh_ptrRotateDrawableWhilePulling, true);
+		//mHeaderImage = (ImageView) view.findViewById(R.id.pull_to_refresh_image);
 
 		mRotateAnimation = new RotateAnimation(0, rotateAngle, Animation.RELATIVE_TO_SELF, 0.5f,
 				Animation.RELATIVE_TO_SELF, 0.5f);
@@ -57,18 +63,19 @@ public class FlipLoadingLayout extends LoadingLayout {
 
 	@Override
 	public View getHeaderImage() {
-		return null;
+		return view.findViewById(R.id.pull_to_refresh_image);
 	}
 
 	@Override
 	public View getHeaderText() {
-		return null;
+		return view.findViewById(R.id.pull_to_refresh_text);
 	}
 
 	@Override
 	public View getHeaderSubText() {
-		return null;
+		return view.findViewById(R.id.pull_to_refresh_sub_text);
 	}
+
 
 	@Override
 	protected void onLoadingDrawableSet(Drawable imageDrawable) {

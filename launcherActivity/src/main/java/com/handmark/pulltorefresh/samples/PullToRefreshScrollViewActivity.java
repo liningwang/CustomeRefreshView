@@ -36,6 +36,8 @@ public final class PullToRefreshScrollViewActivity extends Activity {
 		setContentView(R.layout.activity_ptr_scrollview);
 
 		mPullRefreshScrollView = (PullToRefreshScrollView) findViewById(R.id.pull_refresh_scrollview);
+		CustomeLoadingLayout layout = new CustomeLoadingLayout(this, PullToRefreshBase.Mode.PULL_FROM_START, PullToRefreshBase.Orientation.VERTICAL);
+		mPullRefreshScrollView.setCustomAnimateLayout(this,layout);
 		mPullRefreshScrollView.setOnRefreshListener(new OnRefreshListener<ScrollView>() {
 
 			@Override
